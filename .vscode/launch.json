@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.casetrue.object_oop.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.casetrue.printf.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.casetrue.overloaded_methods.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.casetrue.methods.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.casetrue.foreach_loop.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.casetrue.array_list_2d_20.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.casetrue.wrapper_classes.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.casetrue.string_methods.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.casetrue.arrays_2d.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.casetrue.arrays.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.casetrue.while_loop.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.casetrue.expressions.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(1)",
+            "request": "launch",
+            "mainClass": "com.casetrue.gui.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(2)",
+            "request": "launch",
+            "mainClass": "com.casetrue.if_statement.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(3)",
+            "request": "launch",
+            "mainClass": "com.casetrue.input.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(4)",
+            "request": "launch",
+            "mainClass": "com.casetrue.logical_operators.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(5)",
+            "request": "launch",
+            "mainClass": "com.casetrue.math.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(6)",
+            "request": "launch",
+            "mainClass": "com.casetrue.output.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(7)",
+            "request": "launch",
+            "mainClass": "com.casetrue.random.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(8)",
+            "request": "launch",
+            "mainClass": "com.casetrue.swap_variables.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(9)",
+            "request": "launch",
+            "mainClass": "com.casetrue.switch_statement.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(10)",
+            "request": "launch",
+            "mainClass": "com.casetrue.variables.Main",
+            "projectName": "First_JAVA_PROGAM"
+        }
+    ]
+}
