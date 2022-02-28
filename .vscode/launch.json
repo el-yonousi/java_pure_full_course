@@ -8,6 +8,48 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "com.casetrue.object_passing.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.casetrue.array_of_objects.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.casetrue.tostring_method.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.casetrue.overloaded_constructors.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.casetrue.variable_scope.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.casetrue.constructors.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "com.casetrue.object_oop.Main",
             "projectName": "First_JAVA_PROGAM"
         },

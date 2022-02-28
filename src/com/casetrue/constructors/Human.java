@@ -12,10 +12,15 @@ public class Human {
         this.weight = weight;
     }
 
+    Human(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+
     @Override
     public String toString() {
         return "Name: " + name + "\n" +
                 "Age: " + age + "\n" +
-                "Weight: " + weight;
+                "Weight: " + (weight > 0 ? weight : "");
     }
 }
