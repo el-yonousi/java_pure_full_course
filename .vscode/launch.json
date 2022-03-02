@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "com.casetrue.super_keyword.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "com.casetrue.method_overriding.Main",
             "projectName": "First_JAVA_PROGAM"
         },
