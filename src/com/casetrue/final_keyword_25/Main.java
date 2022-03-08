@@ -1,4 +1,4 @@
-package com.casetrue.final_keyword;
+package com.casetrue.final_keyword_25;
 
 public class Main {
     public static void main(String[] args) {

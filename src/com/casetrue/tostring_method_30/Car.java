@@ -1,4 +1,4 @@
-package com.casetrue.tostring_method;
+package com.casetrue.tostring_method_30;
 
 public class Car {
     String mark = "Ford";

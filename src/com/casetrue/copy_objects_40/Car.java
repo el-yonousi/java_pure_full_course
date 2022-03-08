@@ -1,4 +1,4 @@
-package com.casetrue.copy_objects;
+package com.casetrue.copy_objects_40;
 
 public class Car {
     private String mark;

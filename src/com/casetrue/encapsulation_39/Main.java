@@ -1,4 +1,4 @@
-package com.casetrue.encapsulation;
+package com.casetrue.encapsulation_39;
 
 public class Main {
     public static void main(String[] args) {

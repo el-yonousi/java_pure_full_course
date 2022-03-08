@@ -1,4 +1,4 @@
-package com.casetrue.encapsulation;
+package com.casetrue.encapsulation_39;
 
 public class Car {
     private String mark;

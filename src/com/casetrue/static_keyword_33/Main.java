@@ -1,4 +1,4 @@
-package com.casetrue.static_keyword;
+package com.casetrue.static_keyword_33;
 
 public class Main {
     public static void main(String[] args) {

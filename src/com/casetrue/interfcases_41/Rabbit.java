@@ -1,4 +1,4 @@
-package com.casetrue.interfcases;
+package com.casetrue.interfcases_41;
 
 public class Rabbit implements Prey {
 

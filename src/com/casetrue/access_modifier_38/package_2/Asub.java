@@ -1,6 +1,6 @@
-package com.casetrue.access_modifier.package_2;
+package com.casetrue.access_modifier_38.package_2;
 
-import com.casetrue.access_modifier.package_1.A;
+import com.casetrue.access_modifier_38.package_1.A;
 
 public class Asub extends A {
     public static void main(String[] args) {

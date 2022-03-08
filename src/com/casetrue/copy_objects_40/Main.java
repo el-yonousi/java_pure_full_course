@@ -1,4 +1,4 @@
-package com.casetrue.copy_objects;
+package com.casetrue.copy_objects_40;
 
 public class Main {
     public static void main(String[] args) {

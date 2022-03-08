@@ -1,4 +1,4 @@
-package com.casetrue.methods;
+package com.casetrue.methods_22;
 
 public class Main {
     public static void main(String[] args) {

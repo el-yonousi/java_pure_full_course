@@ -8,6 +8,34 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "com.casetrue.file_reader_47.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.casetrue.file_writer_46.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.casetrue.file_45.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.casetrue.file.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "com.casetrue.exceptions.Main",
             "projectName": "First_JAVA_PROGAM"
         },

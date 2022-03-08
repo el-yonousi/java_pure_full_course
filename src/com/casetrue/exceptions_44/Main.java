@@ -1,4 +1,4 @@
-package com.casetrue.exceptions;
+package com.casetrue.exceptions_44;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package com.casetrue.object_passing;
+package com.casetrue.object_passing_32;
 
 public class Main {
     public static void main(String[] args) {

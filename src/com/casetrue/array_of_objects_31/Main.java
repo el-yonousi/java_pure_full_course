@@ -1,4 +1,4 @@
-package com.casetrue.array_of_objects;
+package com.casetrue.array_of_objects_31;
 
 public class Main {
 

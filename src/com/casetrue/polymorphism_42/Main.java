@@ -1,4 +1,4 @@
-package com.casetrue.polymorphism;
+package com.casetrue.polymorphism_42;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.casetrue.variable_scope;
+package com.casetrue.variable_scope_28;
 
 public class Main {
     public static void main(String[] args) {

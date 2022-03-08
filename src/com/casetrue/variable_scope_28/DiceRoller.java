@@ -1,4 +1,4 @@
-package com.casetrue.variable_scope;
+package com.casetrue.variable_scope_28;
 
 import java.util.Random;
 

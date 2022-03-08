@@ -1,4 +1,4 @@
-package com.casetrue.printf;
+package com.casetrue.printf_24;
 
 public class Main {
     public static void main(String[] args) {

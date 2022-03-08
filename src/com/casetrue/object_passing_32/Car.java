@@ -1,4 +1,4 @@
-package com.casetrue.object_passing;
+package com.casetrue.object_passing_32;
 
 public class Car {
     String name;
