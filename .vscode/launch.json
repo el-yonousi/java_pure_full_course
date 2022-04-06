@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "com.casetrue.java_audio_48.Main",
+            "projectName": "First_JAVA_PROGAM"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "com.casetrue.file_reader_47.Main",
             "projectName": "First_JAVA_PROGAM"
         },
