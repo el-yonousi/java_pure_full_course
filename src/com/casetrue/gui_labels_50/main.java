@@ -30,7 +30,7 @@ public class main {
 
         CustomFrame customFrame = new CustomFrame("make some lables", 500, 500,
                 "src/assets/logo.jpg", new Color(0xffaa00), new Color(0xf1f1f1));
-                
+
         customFrame.setLayout(null);
         customFrame.add(label);
         customFrame.pack();
